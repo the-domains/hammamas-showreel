@@ -1,0 +1,28 @@
+name: Hammamas showreel
+favicon: null
+layout_spectrum: 0.5677915220148861
+typography_spectrum: 0.2798752763774246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0581592139787972
+  lightness: 0.5439525162801147
+  saturation: 0.3499849827494472
+  rhythmicContrast: 0.20947061013430357
+purpose: []
